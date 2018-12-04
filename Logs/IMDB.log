@@ -1,0 +1,174 @@
+2018-11-23 13:09:20 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 13:11:48 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 13:11:49 INFO  IMDBTopRatedMovies:65 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 13:11:50 INFO  IMDBTopRatedMovies:84 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 13:12:02 INFO  IMDBTopRatedMovies:102 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 13:15:50 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 13:20:56 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 13:50:16 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:03:28 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:07:05 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:13:21 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:15:02 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:40:22 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:41:07 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:42:36 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:46:03 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:46:31 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:46:40 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:46:57 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:47:24 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:47:32 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:47:46 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:48:07 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:48:56 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 14:54:55 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 15:50:57 INFO  IMDBTopRatedMovies:52 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 16:14:31 INFO  IMDBTopRatedMovies:56 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 16:14:39 INFO  IMDBTopRatedMovies:69 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 16:14:41 INFO  IMDBTopRatedMovies:88 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 16:14:52 INFO  IMDBTopRatedMovies:106 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 16:20:28 INFO  IMDBTopRatedMovies:56 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 16:20:29 INFO  IMDBTopRatedMovies:69 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 16:20:30 INFO  IMDBTopRatedMovies:88 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 16:20:42 INFO  IMDBTopRatedMovies:106 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 16:21:20 INFO  IMDBTopRatedMovies:56 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 16:21:25 INFO  IMDBTopRatedMovies:69 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 16:21:37 INFO  IMDBTopRatedMovies:88 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 16:21:38 INFO  IMDBTopRatedMovies:106 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 16:24:09 INFO  IMDBTopRatedMovies:56 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 16:24:13 INFO  IMDBTopRatedMovies:69 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 16:24:26 INFO  IMDBTopRatedMovies:88 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 16:24:27 INFO  IMDBTopRatedMovies:106 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:36:12 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 17:36:16 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 17:36:17 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:36:27 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:37:58 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 17:38:03 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 17:38:17 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:38:19 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:41:07 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 17:41:16 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 17:41:17 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:41:27 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:51:30 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 17:51:37 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 17:51:38 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:51:50 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:57:02 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 17:57:03 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 17:57:04 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 17:57:16 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 18:02:46 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 18:02:50 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 18:03:02 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 18:03:03 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 18:04:40 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 18:04:43 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 18:04:55 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 18:04:56 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 18:12:00 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 18:12:05 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 18:12:06 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 18:12:20 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-23 18:13:44 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-23 18:13:46 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-23 18:13:47 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-23 18:13:59 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 12:23:54 INFO  IMDBTopRatedMovies:59 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 12:23:55 INFO  IMDBTopRatedMovies:72 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 12:23:57 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 12:24:06 INFO  IMDBTopRatedMovies:109 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 16:02:10 INFO  IMDBTopRatedMovies:61 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 16:02:42 INFO  IMDBTopRatedMovies:74 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 16:02:44 INFO  IMDBTopRatedMovies:93 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 16:02:52 INFO  IMDBTopRatedMovies:111 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 16:04:09 INFO  IMDBTopRatedMovies:61 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 16:04:18 INFO  IMDBTopRatedMovies:74 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 16:04:19 INFO  IMDBTopRatedMovies:93 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 16:04:30 INFO  IMDBTopRatedMovies:111 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 16:14:18 INFO  IMDBTopRatedMovies:61 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 16:14:23 INFO  IMDBTopRatedMovies:74 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 16:14:34 INFO  IMDBTopRatedMovies:93 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 16:14:35 INFO  IMDBTopRatedMovies:111 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 17:22:11 INFO  IMDBTopRatedMovies:62 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 17:22:17 INFO  IMDBTopRatedMovies:75 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 17:22:18 INFO  IMDBTopRatedMovies:94 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 17:22:22 INFO  IMDBTopRatedMovies:112 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 17:30:49 INFO  IMDBTopRatedMovies:62 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 17:30:51 INFO  IMDBTopRatedMovies:75 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 17:30:52 INFO  IMDBTopRatedMovies:94 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 17:31:10 INFO  IMDBTopRatedMovies:112 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:35:46 INFO  IMDBTopRatedMovies:62 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 19:35:47 INFO  IMDBTopRatedMovies:75 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 19:35:48 INFO  IMDBTopRatedMovies:94 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:36:00 INFO  IMDBTopRatedMovies:112 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:39:05 INFO  IMDBTopRatedMovies:62 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 19:39:06 INFO  IMDBTopRatedMovies:75 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 19:39:08 INFO  IMDBTopRatedMovies:94 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:39:18 INFO  IMDBTopRatedMovies:112 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:46:30 INFO  IMDBTopRatedMovies:62 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 19:46:31 INFO  IMDBTopRatedMovies:75 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 19:46:33 INFO  IMDBTopRatedMovies:94 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:46:42 INFO  IMDBTopRatedMovies:112 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:47:32 INFO  IMDBTopRatedMovies:62 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 19:47:33 INFO  IMDBTopRatedMovies:75 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 19:47:35 INFO  IMDBTopRatedMovies:94 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:47:45 INFO  IMDBTopRatedMovies:112 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:53:11 INFO  IMDBTopRatedMovies:62 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 19:53:12 INFO  IMDBTopRatedMovies:75 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 19:53:13 INFO  IMDBTopRatedMovies:94 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:53:22 INFO  IMDBTopRatedMovies:112 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:54:49 INFO  IMDBTopRatedMovies:62 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-27 19:54:50 INFO  IMDBTopRatedMovies:75 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-27 19:54:52 INFO  IMDBTopRatedMovies:94 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-27 19:55:00 INFO  IMDBTopRatedMovies:112 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-29 19:42:24 INFO  IMDBTopRatedMovies:63 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-29 19:42:30 INFO  IMDBTopRatedMovies:74 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-29 19:42:34 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-29 19:42:49 INFO  IMDBTopRatedMovies:108 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-29 20:22:34 INFO  IMDBTopRatedMovies:63 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-29 20:22:45 INFO  IMDBTopRatedMovies:74 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-29 20:22:57 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-29 20:23:02 INFO  IMDBTopRatedMovies:108 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-29 20:29:49 INFO  IMDBTopRatedMovies:63 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-29 20:30:10 INFO  IMDBTopRatedMovies:74 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-29 20:30:24 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-29 20:30:29 INFO  IMDBTopRatedMovies:108 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-11-29 20:37:21 INFO  IMDBTopRatedMovies:63 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-11-29 20:37:26 INFO  IMDBTopRatedMovies:74 - Step:2 PASSED- user is on the IMDB Home Page
+2018-11-29 20:37:30 INFO  IMDBTopRatedMovies:91 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-11-29 20:37:43 INFO  IMDBTopRatedMovies:108 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-12-03 19:27:07 INFO  IMDBTopRatedMovies:83 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-12-03 19:27:11 INFO  IMDBTopRatedMovies:94 - Step:2 PASSED- user is on the IMDB Home Page
+2018-12-03 19:27:44 INFO  IMDBTopRatedMovies:121 - Step:3FAILED- user is failed to click on IndianRatedMovies link
+Exception Details:timeout
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.47 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'NIS-133', ip: '10.100.15.202', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50458}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90), userDataDir=C:\Users\AMIT~1.PAT\AppData\Local\Temp\scoped_dir10904_1916}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9a742171d2d39a6abd741a22a209030c
+2018-12-03 19:36:43 INFO  IMDBTopRatedMovies:83 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-12-03 19:36:52 INFO  IMDBTopRatedMovies:94 - Step:2 PASSED- user is on the IMDB Home Page
+2018-12-03 19:37:24 INFO  IMDBTopRatedMovies:121 - Step:3FAILED- user is failed to click on IndianRatedMovies link
+Exception Details:timeout
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.11 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'NIS-133', ip: '10.100.15.202', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=WIN8_1, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50720}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90), userDataDir=C:\Users\AMIT~1.PAT\AppData\Local\Temp\scoped_dir12180_8347}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.110, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d184f473dc6463748033815ac6b9ba3a
+2018-12-03 19:41:46 INFO  IMDBTopRatedMovies:83 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-12-03 19:41:51 INFO  IMDBTopRatedMovies:94 - Step:2 PASSED- user is on the IMDB Home Page
+2018-12-03 19:42:12 INFO  IMDBTopRatedMovies:114 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-12-03 19:42:14 INFO  IMDBTopRatedMovies:135 - Step:4 PASSED- user clicks on IndianRatedMovies
+2018-12-04 14:05:20 INFO  IMDBTopRatedMovies:76 - Step:1 PASSED: user enter the url as https://www.imdb.com
+2018-12-04 14:05:22 INFO  IMDBTopRatedMovies:87 - Step:2 PASSED- user is on the IMDB Home Page
+2018-12-04 14:05:31 INFO  IMDBTopRatedMovies:107 - Step:3 PASSED- user clicks on IndianRatedMovies
+2018-12-04 14:05:33 INFO  IMDBTopRatedMovies:128 - Step:4 PASSED- user clicks on IndianRatedMovies
